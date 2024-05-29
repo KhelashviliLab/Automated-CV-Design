@@ -21,3 +21,4 @@ This protocol is divided into four steps/directories: Please refer to the README
 
 4. **Dimensionality Reduction**: Includes scripts for different dimensionality reduction methods (PCA, FLDA, MHLDA, ZHLDA, GDHLDA).
 
+![image](https://github.com/KhelashviliLab/Automated-CV-Design/assets/99993156/5d7eeaf7-aedb-42a9-b2a6-a34d79b34732)
