@@ -21,7 +21,7 @@ if {[catch {open $file_out w} outFile]} {
 # Edit according to your system (no changes needed if using our inputs):
 
 mol load psf /lustre/orion/bip109/scratch/margaridarosa/mfsd2a_methods_simulations/OpenMM-Summit-Ensemble-master/mlcvs-final-GITHUB_May/1_input_MD_data/IFS.psf
-mol addfile /lustre/orion/bip109/scratch/margaridarosa/mfsd2a_methods_simulations/OpenMM-Summit-Ensemble-master/mlcvs-final-GITHUB_May/1_input_MD_data/sample_IFS_trajectory.dcd first 0 last -1 step 1 waitfor -1
+mol addfile /lustre/orion/bip109/scratch/margaridarosa/mfsd2a_methods_simulations/OpenMM-Summit-Ensemble-master/mlcvs-final-GITHUB_May/1_input_MD_data/sample_IFS_trajectory.xtc first 0 last -1 step 1 waitfor -1
 
 ### Step 3. Extract coordinates
 # Edit according to your system (no changes needed if using our inputs):
