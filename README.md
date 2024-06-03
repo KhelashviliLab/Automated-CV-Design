@@ -13,7 +13,7 @@ Our protocol addresses the challenge of sampling transitions between long-lived 
 ## Usage
 This protocol is divided into four steps/directories: Please refer to the README file in each directory for more detailed information about each step.
 
-1. **Input MD Data**: Contains all the inputs required for the subsequent steps.
+1. **Input MD Data**: Contains all the inputs required for the subsequent steps. Note that we compressed .psf to .zip and converted .dcd to .xtc to reduce file sizes.
 
 2. **Feature Extraction**: Includes scripts for extracting Cartesian coordinates from molecular dynamics trajectories, merging CSV files using pandas, and trimming the dataset based on variance.
 
