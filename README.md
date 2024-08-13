@@ -1,9 +1,9 @@
 # Automated Collective Variable Discovery 
 Myongin Oh, Margarida Rosa, Hengyi Xie, George Khelashvili at Weill Cornell Medicine. 
-Please refer to the paper: DOI:https://doi.org/10.1016/j.bpj.2024.06.024 
+Please refer to the paper: DOI: https://doi.org/10.1016/j.bpj.2024.06.024 
 
 ## Author Information
-- **Authors**: MO, MR, HX (Latest Update: May 28, 2024) 
+- **Authors**: MO, MR, HX (Latest Update: Aug 13, 2024) 
 - **Contact Information**: MO (myo4001@med.cornell.edu) MR (mar4026@med.cornell.edu) GK (gek2009@med.cornell.edu) 
 If you have any questions or notice any mistakes, please contact us.
 
