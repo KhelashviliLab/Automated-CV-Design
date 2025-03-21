@@ -1,6 +1,8 @@
 # Automated Collective Variable Discovery Protocol 
 Myongin Oh*, Margarida Rosa*, Hengyi Xie, George Khelashvili at Weill Cornell Medicine. 
-*Denotes equal contribution
+
+*Denotes equal contribution. 
+
 Please refer to the paper: DOI: https://doi.org/10.1016/j.bpj.2024.06.024 
 
 ## Author Information
